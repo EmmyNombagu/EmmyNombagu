@@ -1,5 +1,3 @@
-### Hello dear! 👋
-
 
 I'm Nombagu Emmanuel,
 a software Developer
